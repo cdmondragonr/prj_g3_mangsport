@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vy81WT6flN4tINZbeUUiD7FObL+ATgzPIQPEuvKsR+ORptgdK8ojsoetREx/sGPmAAidVDN2SNWfCYsiydj44g==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\cdmr\\Clound\\Development\\repos\\mtic\\mangsport\\app\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cdmrr\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

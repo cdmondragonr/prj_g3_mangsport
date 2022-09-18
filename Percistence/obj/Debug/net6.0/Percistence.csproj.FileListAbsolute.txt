@@ -1,0 +1,17 @@
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\obj\Debug\net6.0\Percistence.csproj.AssemblyReference.cache
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\obj\Debug\net6.0\Percistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\obj\Debug\net6.0\Percistence.AssemblyInfoInputs.cache
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\obj\Debug\net6.0\Percistence.AssemblyInfo.cs
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\obj\Debug\net6.0\Percistence.csproj.CoreCompileInputs.cache
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\bin\Debug\net6.0\Percistence.deps.json
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\bin\Debug\net6.0\Percistence.runtimeconfig.json
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\bin\Debug\net6.0\Percistence.dll
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\bin\Debug\net6.0\Percistence.pdb
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\bin\Debug\net6.0\Domain.dll
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\bin\Debug\net6.0\Domain.pdb
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\obj\Debug\net6.0\Percistence.csproj.CopyComplete
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\obj\Debug\net6.0\Percistence.dll
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\obj\Debug\net6.0\refint\Percistence.dll
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\obj\Debug\net6.0\Percistence.pdb
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\obj\Debug\net6.0\Percistence.genruntimeconfig.cache
+E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Percistence\obj\Debug\net6.0\ref\Percistence.dll
