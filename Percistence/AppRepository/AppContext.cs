@@ -27,4 +27,9 @@ public class AppContext:DbContext
             optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB; Initial Catalog=MangSport");
         }
     }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<TorneoEquipo>()
+            .HasKey(TE => new { TE.EquipoId, TE.TorneoId });
+    }
 }
