@@ -11,6 +11,6 @@ public class Municipio
     [Required(ErrorMessage="El campo {0}, es obligatorio")]
     [MaxLength(40,ErrorMessage="El campo {0}, no puede contener mas de 40 caracteres")]
     [MinLength(4,ErrorMessage="El campo {0}, debe contener al menos 4 caracteres")]
-    public int Nombre {get; set;}
+    public string Nombre {get; set;}
     public List<Torneo> Torenos {get; set;}
 }

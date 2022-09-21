@@ -26,7 +26,6 @@ E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6
 E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\Newtonsoft.Json.dll
 E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\System.Drawing.Common.dll
 E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
@@ -37,13 +36,9 @@ E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6
 E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
 E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
 E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
 E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
 E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 E:\Users\cdmr\Clound\Development\repos\mtic\mangsport\app\Console\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll

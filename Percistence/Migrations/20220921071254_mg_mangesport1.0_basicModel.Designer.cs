@@ -5,13 +5,13 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Persistence;
+using Percistence;
 
 namespace Percistence.Migrations
 {
-    [DbContext(typeof(Persistence.AppContext))]
-    [Migration("20220918185219_mg-mangesport")]
-    partial class mgmangesport
+    [DbContext(typeof(AppContext))]
+    [Migration("20220921071254_mg_mangesport1.0_basicModel")]
+    partial class mg_mangesport10_basicModel
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -307,9 +307,10 @@ namespace Percistence.Migrations
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
-                    b.Property<int>("Nombre")
+                    b.Property<string>("Nombre")
+                        .IsRequired()
                         .HasMaxLength(40)
-                        .HasColumnType("int");
+                        .HasColumnType("nvarchar(40)");
 
                     b.HasKey("Id");
 

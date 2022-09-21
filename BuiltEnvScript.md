@@ -4,10 +4,10 @@ CL1:    otnet tool install --global dotnet-ef
 CL2 -opt:   dotnet tool update --global dotnet-ef
 
 Adding to the project packages EF
-CL3:    dotnet add package Microsoft.EntityFrameworkCore --version 5.0.0
-CL4:    dotnet add package Microsoft.EntityFrameworkCore.Tools --version 5.0.0
-CL5:    dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.0.0
-CL6:    dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 5.0.0
+CL3:    dotnet add package Microsoft.EntityFrameworkCore --version 6.0.0
+CL4:    dotnet add package Microsoft.EntityFrameworkCore.Tools --version 6.0.0
+CL5:    dotnet add package Microsoft.EntityFrameworkCore.Design --version 6.0.0
+CL6:    dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 6.0.0
 
 Setting Migrations
 Creating Miggrations: 
@@ -25,5 +25,5 @@ Updating Migrations:
 CL11:   dotnet ef migrations add Init --startup-project ..\ConsoleApp\
 
 Adding package to domain layout to setting entitie atributes
-CL12:   dotnet add package System.ComponentModel.Annotations --version 5.0.0
+CL12:   dotnet add package System.ComponentModel.Annotations --version 6.0.0
 

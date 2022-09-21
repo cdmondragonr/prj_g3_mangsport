@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Persistence;
+using Percistence;
 
 namespace Percistence.Migrations
 {
-    [DbContext(typeof(Persistence.AppContext))]
+    [DbContext(typeof(AppContext))]
     partial class AppContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
@@ -305,9 +305,10 @@ namespace Percistence.Migrations
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
-                    b.Property<int>("Nombre")
+                    b.Property<string>("Nombre")
+                        .IsRequired()
                         .HasMaxLength(40)
-                        .HasColumnType("int");
+                        .HasColumnType("nvarchar(40)");
 
                     b.HasKey("Id");
 
